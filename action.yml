@@ -1,4 +1,4 @@
-name: cryptoeejit/action-release
+name: sondreb/action-release
 description: |
   GitHub Release Action
 author: Sondre Bjellås
